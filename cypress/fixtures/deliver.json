@@ -1,0 +1,53 @@
+{
+    "signup":{
+        "name": "Pedro Anderson",
+        "cpf": "00000014141",
+        "email": "pedro101112131415@hotmail.com",
+        "whatsapp": "85911111111",
+        
+        "address":{
+            "postalcode": "60830345",
+            "street": "Rua Manuel Teixeira",
+            "number": "1000",
+            "details": "casa 45",
+            "district": "José de Alencar",
+            "city_state": "Fortaleza/CE" 
+        },
+        "delivery_method": "Moto", 
+        "cnh":"cnh-digital.jpg"
+    },
+    "cpf_invalid":{
+        "name": "João",
+        "cpf": "000000141AA",
+        "email": "joao411125@hotmail.com",
+        "whatsapp": "85911111111",
+        
+        "address":{
+            "postalcode": "60830345",
+            "street": "Rua Manuel Teixeira",
+            "number": "1000",
+            "details": "casa 45",
+            "district": "José de Alencar",
+            "city_state": "Fortaleza/CE" 
+        },
+        "delivery_method": "Moto", 
+        "cnh":"cnh-digital.jpg"
+    },
+    "email_invalid":{
+        "name": "Lana",
+        "cpf": "00000014141",
+        "email": "teste.com.br",
+        "whatsapp": "85911111111",
+        
+        "address":{
+            "postalcode": "60830345",
+            "street": "Rua Manuel Teixeira",
+            "number": "1000",
+            "details": "casa 45",
+            "district": "José de Alencar",
+            "city_state": "Fortaleza/CE" 
+        },
+        "delivery_method": "Moto", 
+        "cnh":"cnh-digital.jpg"
+    }
+}
